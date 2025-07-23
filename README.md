@@ -12,7 +12,7 @@ Tests are written to support both Android APK and iOS IPA file testing.
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/skyone-e2e-automation-testing.git
+git clone https://github.com/ONE-SKY-COLLECTIVE/skyone-automation-testing.git
 cd skyone-e2e-automation-testing
 ```
 
